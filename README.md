@@ -8,3 +8,5 @@ This is an application that I have made in TechWorld with Nana's Ultimate IT Fun
 ### To package the application execute
 
     npm pack
+
+Application runs on port 3000
